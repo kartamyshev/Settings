@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"font_face": "Courier New",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"tab_size": 3,
+	"theme": "Spacegray Eighties.sublime-theme"
+}
